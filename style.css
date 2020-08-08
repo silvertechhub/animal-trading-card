@@ -112,6 +112,16 @@ footer  a{
     .description-section ul li {
         flex: 1 1 33%;
     }
+    footer{
+        width: 20rem;
+    }
+    .arrow{
+        display: flex;
+        justify-content: end;
+    }
+    .dot-icon{
+        display: none;
+    }
    
 }
 
